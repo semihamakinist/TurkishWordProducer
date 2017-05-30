@@ -1,6 +1,6 @@
 
-# Requirements:
-python 2.7.11
-jnius for zemberek jar file
-difflib for comparing words
+# ** Requirements: **
+1. python 2.7.11
+2. jnius for zemberek jar file
+3. difflib for comparing words
 
