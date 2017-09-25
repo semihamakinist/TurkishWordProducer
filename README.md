@@ -4,4 +4,4 @@
 2. jnius for zemberek jar file
 3. difflib for comparing words
 
-### **Note: ** mail file is the letterSerch.py
+### **Note: ** main file is the letterSerch.py
